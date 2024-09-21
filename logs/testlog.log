@@ -1,0 +1,15 @@
+2024-09-21 20:06:15,666 - Signin_POM - INFO - sign in successfully completed
+2024-09-21 20:06:19,600 - Signin_POM - INFO - Item added to Cart
+2024-09-21 20:06:22,781 - Signin_POM - INFO - Payment done
+2024-09-21 20:06:22,803 - Signin_POM - INFO - signout done
+2024-09-21 20:06:23,199 - Signin_POM - INFO - Browser closed done
+2024-09-21 20:06:23,526 - freemarker.cache - DEBUG - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2024-09-21 20:06:23,530 - freemarker.cache - DEBUG - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2024-09-21 20:06:23,534 - freemarker.cache - DEBUG - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2024-09-21 20:06:23,536 - freemarker.cache - DEBUG - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2024-09-21 20:06:23,537 - freemarker.cache - DEBUG - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/user/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2024-09-21 20:06:23,940 - freemarker.cache - DEBUG - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2024-09-21 20:06:23,941 - freemarker.cache - DEBUG - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2024-09-21 20:06:23,942 - freemarker.cache - DEBUG - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2024-09-21 20:06:23,943 - freemarker.cache - DEBUG - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2024-09-21 20:06:23,943 - freemarker.cache - DEBUG - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/user/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
